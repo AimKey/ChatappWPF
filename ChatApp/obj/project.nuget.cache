@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gi5s3syN4qI=",
+  "success": true,
+  "projectFilePath": "E:\\source\\C#\\projects\\ChatApp\\ChatApp\\ChatApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phamm\\.nuget\\packages\\materialdesigncolors\\5.2.1\\materialdesigncolors.5.2.1.nupkg.sha512",
+    "C:\\Users\\phamm\\.nuget\\packages\\materialdesignthemes\\5.2.1\\materialdesignthemes.5.2.1.nupkg.sha512",
+    "C:\\Users\\phamm\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

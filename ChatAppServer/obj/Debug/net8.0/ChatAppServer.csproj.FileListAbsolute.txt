@@ -1,0 +1,14 @@
+E:\source\C#\projects\ChatApp\ChatAppServer\bin\Debug\net8.0\ChatAppServer.exe
+E:\source\C#\projects\ChatApp\ChatAppServer\bin\Debug\net8.0\ChatAppServer.deps.json
+E:\source\C#\projects\ChatApp\ChatAppServer\bin\Debug\net8.0\ChatAppServer.runtimeconfig.json
+E:\source\C#\projects\ChatApp\ChatAppServer\bin\Debug\net8.0\ChatAppServer.dll
+E:\source\C#\projects\ChatApp\ChatAppServer\bin\Debug\net8.0\ChatAppServer.pdb
+E:\source\C#\projects\ChatApp\ChatAppServer\obj\Debug\net8.0\ChatAppServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\C#\projects\ChatApp\ChatAppServer\obj\Debug\net8.0\ChatAppServer.AssemblyInfoInputs.cache
+E:\source\C#\projects\ChatApp\ChatAppServer\obj\Debug\net8.0\ChatAppServer.AssemblyInfo.cs
+E:\source\C#\projects\ChatApp\ChatAppServer\obj\Debug\net8.0\ChatAppServer.csproj.CoreCompileInputs.cache
+E:\source\C#\projects\ChatApp\ChatAppServer\obj\Debug\net8.0\ChatAppServer.dll
+E:\source\C#\projects\ChatApp\ChatAppServer\obj\Debug\net8.0\refint\ChatAppServer.dll
+E:\source\C#\projects\ChatApp\ChatAppServer\obj\Debug\net8.0\ChatAppServer.pdb
+E:\source\C#\projects\ChatApp\ChatAppServer\obj\Debug\net8.0\ChatAppServer.genruntimeconfig.cache
+E:\source\C#\projects\ChatApp\ChatAppServer\obj\Debug\net8.0\ref\ChatAppServer.dll

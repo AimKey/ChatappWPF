@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\C#\\projects\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC83FCA-6CEB-4DA1-83B9-4E004EA6B78D}|ChatAppServer\\ChatAppServer.csproj|e:\\source\\c#\\projects\\chatapp\\chatappserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC83FCA-6CEB-4DA1-83B9-4E004EA6B78D}|ChatAppServer\\ChatAppServer.csproj|solutionrelative:chatappserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC83FCA-6CEB-4DA1-83B9-4E004EA6B78D}|ChatAppServer\\ChatAppServer.csproj|e:\\source\\c#\\projects\\chatapp\\chatappserver\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC83FCA-6CEB-4DA1-83B9-4E004EA6B78D}|ChatAppServer\\ChatAppServer.csproj|solutionrelative:chatappserver\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D180B7-1B38-4ECA-BD67-8F33DBF9E15E}|ChatApp\\ChatApp.csproj|e:\\source\\c#\\projects\\chatapp\\chatapp\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D180B7-1B38-4ECA-BD67-8F33DBF9E15E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D180B7-1B38-4ECA-BD67-8F33DBF9E15E}|ChatApp\\ChatApp.csproj|e:\\source\\c#\\projects\\chatapp\\chatapp\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8D180B7-1B38-4ECA-BD67-8F33DBF9E15E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D180B7-1B38-4ECA-BD67-8F33DBF9E15E}|ChatApp\\ChatApp.csproj|e:\\source\\c#\\projects\\chatapp\\chatapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D180B7-1B38-4ECA-BD67-8F33DBF9E15E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D180B7-1B38-4ECA-BD67-8F33DBF9E15E}|ChatApp\\ChatApp.csproj|e:\\source\\c#\\projects\\chatapp\\chatapp\\constants\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D180B7-1B38-4ECA-BD67-8F33DBF9E15E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\constants\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC83FCA-6CEB-4DA1-83B9-4E004EA6B78D}|ChatAppServer\\ChatAppServer.csproj|e:\\source\\c#\\projects\\chatapp\\chatappserver\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC83FCA-6CEB-4DA1-83B9-4E004EA6B78D}|ChatAppServer\\ChatAppServer.csproj|solutionrelative:chatappserver\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC83FCA-6CEB-4DA1-83B9-4E004EA6B78D}|ChatAppServer\\ChatAppServer.csproj|e:\\source\\c#\\projects\\chatapp\\chatappserver\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC83FCA-6CEB-4DA1-83B9-4E004EA6B78D}|ChatAppServer\\ChatAppServer.csproj|solutionrelative:chatappserver\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 278,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\source\\C#\\projects\\ChatApp\\ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "E:\\source\\C#\\projects\\ChatApp\\ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBgAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:12:54.158Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PacketBuilder.cs",
+              "DocumentMoniker": "E:\\source\\C#\\projects\\ChatApp\\ChatAppServer\\Net\\IO\\PacketBuilder.cs",
+              "RelativeDocumentMoniker": "ChatAppServer\\Net\\IO\\PacketBuilder.cs",
+              "ToolTip": "E:\\source\\C#\\projects\\ChatApp\\ChatAppServer\\Net\\IO\\PacketBuilder.cs",
+              "RelativeToolTip": "ChatAppServer\\Net\\IO\\PacketBuilder.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:58:58.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacketReader.cs",
+              "DocumentMoniker": "E:\\source\\C#\\projects\\ChatApp\\ChatAppServer\\Net\\IO\\PacketReader.cs",
+              "RelativeDocumentMoniker": "ChatAppServer\\Net\\IO\\PacketReader.cs",
+              "ToolTip": "E:\\source\\C#\\projects\\ChatApp\\ChatAppServer\\Net\\IO\\PacketReader.cs",
+              "RelativeToolTip": "ChatAppServer\\Net\\IO\\PacketReader.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:58:58.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\source\\C#\\projects\\ChatApp\\ChatAppServer\\Model\\Client.cs",
+              "RelativeDocumentMoniker": "ChatAppServer\\Model\\Client.cs",
+              "ToolTip": "E:\\source\\C#\\projects\\ChatApp\\ChatAppServer\\Model\\Client.cs",
+              "RelativeToolTip": "ChatAppServer\\Model\\Client.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvzAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:58:11.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\C#\\projects\\ChatApp\\ChatAppServer\\Program.cs",
+              "RelativeDocumentMoniker": "ChatAppServer\\Program.cs",
+              "ToolTip": "E:\\source\\C#\\projects\\ChatApp\\ChatAppServer\\Program.cs",
+              "RelativeToolTip": "ChatAppServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:57:44.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppConstants.cs",
+              "DocumentMoniker": "E:\\source\\C#\\projects\\ChatApp\\ChatApp\\Constants\\AppConstants.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Constants\\AppConstants.cs",
+              "ToolTip": "E:\\source\\C#\\projects\\ChatApp\\ChatApp\\Constants\\AppConstants.cs",
+              "RelativeToolTip": "ChatApp\\Constants\\AppConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:55:47.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "E:\\source\\C#\\projects\\ChatApp\\ChatApp\\Net\\Server.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Net\\Server.cs",
+              "ToolTip": "E:\\source\\C#\\projects\\ChatApp\\ChatApp\\Net\\Server.cs",
+              "RelativeToolTip": "ChatApp\\Net\\Server.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:53:32.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\source\\C#\\projects\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChatApp\\MVVM\\View\\MainWindow.xaml",
+              "ToolTip": "E:\\source\\C#\\projects\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
+              "RelativeToolTip": "ChatApp\\MVVM\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T17:50:24.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
